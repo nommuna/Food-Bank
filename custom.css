@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+.title {
+  padding-top: 80px;
+  color: white;
+  font-size: 30px;
+}
+.container-fluid {
+  background-image: url("photo1.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  width: auto;
+}
+.container {
+  position: relative;
+  top: 26%;
+}
+.submitbtn {
+  padding-top: 10px;
+  width: 25%;
+}
+.btn {
+  border-radius: 0;
+}
